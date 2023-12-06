@@ -22,7 +22,7 @@
       z-index: 1;
       display: none;
       @include md {
-         display: block;
+         // display: block;
       }
       &:hover {
          opacity: 0.8;
