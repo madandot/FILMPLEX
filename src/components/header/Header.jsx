@@ -80,7 +80,7 @@ const Header = () => {
                      <li onClick={() => navigationHandler("tv")} className='text-white font-medium cursor-pointer hover:text-pink-600'>
                         TV Shows
                      </li>
-                     <li className='text-white font-medium cursor-pointer hover:text-pink-600'>
+                     <li className='text-white font-medium cursor-pointer hover:text-red-600'>
                         <HiOutlineSearch onClick={openSearch} size={23} />
                      </li>
                   </ul>
