@@ -34,7 +34,7 @@ const HeroBanner = () => {
                className='flex flex-col items-center text-white text-center relative
              max-w-[800px] mx-auto'
             >
-               <span className=' text-5xl text-black/50 font-bold mb-2 md:mb-0 md:text-7xl'>Welcome.</span>
+               <span className=' text-5xl  font-bold mb-2 md:mb-0 md:text-7xl'>Welcome.</span>
                <span className='text-[18px] mb-10 font-medium md:text-[24px]'>
                   Tons of movies, TV shows and people to discover. Explore now.
                </span>
